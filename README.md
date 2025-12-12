@@ -14,9 +14,9 @@ When was the last time searching a museum database taught you about what you fou
 
 ## Features
 
-> 1,000 total objects fetched from 8 diverse Smithsonian museums with diverse collections (the API has access to over 11 million objects from 19 museums)
-> 4 preliminary relation filtering types: Cultural, Form, Thematic, Spatial, and a force-directed layout for connected object clustering
-> Interactive graph where users can filter connections, click to view an object in detail, or activate a spontaneous “Collections Walk” tour
+- 1,000 total objects fetched from 8 diverse Smithsonian museums with diverse collections (the API has access to over 11 million objects from 19 museums)
+- 4 preliminary relation filtering types: Cultural, Form, Thematic, Spatial, and a force-directed layout for connected object clustering
+- Interactive graph where users can filter connections, click to view an object in detail, or activate a spontaneous “Collections Walk” tour
 
 Additional Features and Technical Components:
 - Up to 8 connections per object, using pagination and display limits (50 objects per page) to enable discovery without overwhelming user with connection links
